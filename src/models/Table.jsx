@@ -1,8 +1,3 @@
-/**
- * @author: ntwari egide
- * @description: table model
- */
-
 import { Table, Tag, Space } from 'antd';
 
 const { Column, ColumnGroup } = Table;

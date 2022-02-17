@@ -1,8 +1,3 @@
-/**
- * @author: ntwari egide
- * @description: dashboard layout model
- */
-
 import { Layout, Menu, Breadcrumb, Space } from 'antd';
 import {
   DesktopOutlined,
